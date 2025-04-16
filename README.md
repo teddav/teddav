@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Some of my articles (yes they are everywhere, I'll merge them someday...):  
+https://dev.to/teddav  
+https://teddav.github.io  
+https://hackmd.io/@teddav  
+
+
 <!--
 **teddav/teddav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
