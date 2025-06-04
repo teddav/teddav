@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Some of my articles (yes they are everywhere, I'll merge them someday...):  
+https://teddav.notion.site/teddav-blog-199688fe089b8046b23ef5c1a9a9ccce  
 https://dev.to/teddav  
 https://teddav.github.io  
 https://hackmd.io/@teddav  
